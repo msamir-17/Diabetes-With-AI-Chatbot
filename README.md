@@ -61,6 +61,8 @@ An intelligent web application that predicts diabetes using Machine Learning and
 
 ---
 
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/81be3457-461c-4f38-a529-e6ac63c8bf10" />
+<img width="1600" height="875" alt="image" src="https://github.com/user-attachments/assets/b3829f18-ec87-45b8-90cd-e5f4aa95bef1" />
 ## 🖥️ Setup Instructions
 
 ### 1️⃣ Clone the repository
@@ -77,6 +79,4 @@ npm install
 npm start
 Now open http://localhost:3000
  in your browser 🚀
-<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/81be3457-461c-4f38-a529-e6ac63c8bf10" />
-<img width="1600" height="875" alt="image" src="https://github.com/user-attachments/assets/b3829f18-ec87-45b8-90cd-e5f4aa95bef1" />
 
